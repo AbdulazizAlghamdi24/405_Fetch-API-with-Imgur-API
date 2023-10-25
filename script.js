@@ -1,4 +1,4 @@
-const clientId = "3630996c3b2363e"; 
+const clientId = "3630996c3b2363"; 
 const defaultAlbumId = 'Jfni3';
 
 function fetchWithPromises() {
